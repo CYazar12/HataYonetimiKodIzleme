@@ -1,0 +1,15 @@
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\bin\Debug\net6.0\HataYonetimiKodIzleme.exe
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\bin\Debug\net6.0\HataYonetimiKodIzleme.deps.json
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\bin\Debug\net6.0\HataYonetimiKodIzleme.runtimeconfig.json
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\bin\Debug\net6.0\HataYonetimiKodIzleme.dll
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\bin\Debug\net6.0\HataYonetimiKodIzleme.pdb
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\HataYonetimiKodIzleme.csproj.AssemblyReference.cache
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\HataYonetimiKodIzleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\HataYonetimiKodIzleme.AssemblyInfoInputs.cache
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\HataYonetimiKodIzleme.AssemblyInfo.cs
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\HataYonetimiKodIzleme.csproj.CoreCompileInputs.cache
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\HataYonetimiKodIzleme.dll
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\refint\HataYonetimiKodIzleme.dll
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\HataYonetimiKodIzleme.pdb
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\HataYonetimiKodIzleme.genruntimeconfig.cache
+C:\Users\celal\Documents\Sites\Pratikler\HataYonetimiKodIzleme\obj\Debug\net6.0\ref\HataYonetimiKodIzleme.dll
