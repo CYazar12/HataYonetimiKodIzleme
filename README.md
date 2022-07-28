@@ -1,3 +1,3 @@
-#(patika.dev)
+#(www.patika.dev)
 # HataYonetimiKodIzleme
 Exception handling 
